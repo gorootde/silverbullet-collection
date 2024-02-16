@@ -25,3 +25,4 @@ Templates for rendering things in queries.
 ## Styles
 Custom stylings.
 
+- [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
