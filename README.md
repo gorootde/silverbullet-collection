@@ -23,6 +23,11 @@ Templates for rendering things in queries.
 - [Person](./templates/Query/Person.md) Displays person including days left until their next birthday
 - [Task](./templates/Query/Task.md) Displays tasks including days left until their due date.
 
+### Snippets
+Snippets that can be inserted using slash commands.
+- [tags-highscore](./templates/Snippets/TagsHighscore.md) Will insert a list of tags in your space including how many times they were used
+
+
 ## Styles
 Custom stylings.
 
