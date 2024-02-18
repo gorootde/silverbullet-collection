@@ -26,6 +26,7 @@ Templates for rendering things in queries.
 ### Snippets
 Snippets that can be inserted using slash commands.
 - [tags-highscore](./templates/Snippets/TagsHighscore.md) Will insert a list of tags in your space including how many times they were used
+- [due-date](./templates/Snippets/Duedate.md) Inserts a due date that is used to set the deadline date for a task
 
 
 ## Styles
