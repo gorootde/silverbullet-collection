@@ -7,6 +7,7 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 - [`daysTillDate`](./scripts/DaysTillDate.md) Function to calculate days until a given date
 - [`year`](./scripts/Year.md) Function to get the year of a given date
 - [`Export: as PDF`](./scripts/PDFExport.md) Command to export current page as PDF.
+- [`Insert Date`](./scripts/InsertDate.md) Convenient date picker. Inserts selection on current cursor pos
 
 ## Templates
 ### New Pages
