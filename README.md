@@ -26,3 +26,4 @@ Templates for rendering things in queries.
 Custom stylings.
 
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
+- [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
