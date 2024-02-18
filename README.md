@@ -5,7 +5,8 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 ## Space Scripts
 - [`daysTillBirthday`](./scripts/DaysTillBirthday.md) Function to calculate days until next birthday date
 - [`daysTillDate`](./scripts/DaysTillDate.md) Function to calculate days until a given date
-- [`year`](./scripts/Year.md) Get the year of a given date
+- [`year`](./scripts/Year.md) Function to get the year of a given date
+- [`Export: as PDF`](./scripts/PDFExport.md) Command to export current page as PDF.
 
 ## Templates
 ### New Pages
