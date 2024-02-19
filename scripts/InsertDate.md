@@ -13,7 +13,7 @@ silverbullet.registerCommand({name:"Insert Date"},async () => {
     {name: "Day after tomorrow",date: now.add({days: 2})},
     {name: "In one week",date: now.add({weeks: 1})},
     {name: "In two weeks",date: now.add({weeks: 2})},
-    {name: "In a month",date: now.add({month: 1})},
+    {name: "In a month",date: now.add({months: 1})},
     
   ]
   const maxOffset=365
@@ -27,9 +27,9 @@ silverbullet.registerCommand({name:"Insert Date"},async () => {
   }
 
   const picked=await syscall("editor.filterBox","Pick a date",dateOptions)
-  
-  console.log(picked)
-  await syscall("editor.insertAtCursor",picked.date.toString())
+  if(picked){
+    await syscall("editor.insertAtCursor",picked.date.toString())
+  }
 })
 ```
 
