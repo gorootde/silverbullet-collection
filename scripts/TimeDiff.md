@@ -13,7 +13,10 @@ silverbullet.registerFunction('timeDiff',(time1,time2,unit='hour') => {
     const diff=t1.until(t2)
     return diff.total({unit})
 })
+```
+
 
 ```template
-{{ timeDiff("08:00","15:59") }}
+Hours between 8:00 and 15:59 -> {{ timeDiff("08:00","15:59") }}
 ```
+

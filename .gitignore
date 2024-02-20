@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.silverbullet.db*
+index.md
+SETTINGS.md

@@ -1,7 +1,6 @@
 # Collection of awesome silverbullet.md stuff
 Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, templates and other useful stuff.
 
-
 ## Space Scripts
 - [`daysTillBirthday`](./scripts/DaysTillBirthday.md) Function to calculate days until next birthday date
 - [`daysTillDate`](./scripts/DaysTillDate.md) Function to calculate days until a given date
@@ -9,6 +8,8 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 - [`Export: as PDF`](./scripts/PDFExport.md) Command to export current page as PDF.
 - [`Insert Date`](./scripts/InsertDate.md) Convenient date picker. Inserts selection on current cursor pos
 - [`TimeDiff`](./scripts/timeDiff.md) Calculate time between two times
+- [`DateDiff`](./scripts/DateDiff.md) Difference between two dates
+- [`MathBasics`](./scripts/MathBasics.md) Basic math functions such as `ceil`,`floor` or `round`
 ## Templates
 ### New Pages
 Templates for creating new pages.
@@ -35,3 +36,6 @@ Custom stylings.
 
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
+
+# Contributions
+Contributions are welcome! Just open a PR or create an issue. Everything you contribute will be licensed 
