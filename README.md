@@ -38,4 +38,6 @@ Custom stylings.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
 
 # Contributions
-Contributions are welcome! Just open a PR or create an issue. Everything you contribute will be licensed 
+Contributions are welcome! Just open a PR or create an issue.
+
+When you contribute (code, documentation, or anything else), you have to be aware that your contribution is covered by the same License that is applied for other assets in this repository.
