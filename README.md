@@ -1,6 +1,10 @@
 # Collection of awesome silverbullet.md stuff
 Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, templates and other useful stuff.
 
+
+## Plugs
+- [Tree view plug](https://github.com/joekrill/silverbullet-treeview?tab=readme-ov-file) Plug by @joekrill adding a tree view navigation panel
+
 ## Space Scripts
 - [`daysTillBirthday`](./scripts/DaysTillBirthday.md) Function to calculate days until next birthday date
 - [`daysTillDate`](./scripts/DaysTillDate.md) Function to calculate days until a given date
@@ -36,6 +40,8 @@ Custom stylings.
 
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
+
+
 
 # Contributions
 Contributions are welcome! Just open a PR or create an issue.
