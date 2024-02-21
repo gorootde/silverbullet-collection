@@ -4,6 +4,7 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 
 ## Plugs
 - [Tree view plug](https://github.com/joekrill/silverbullet-treeview?tab=readme-ov-file) Plug by @joekrill adding a tree view navigation panel
+- [AI plug](https://github.com/justyns/silverbullet-ai) Plug by @justyns that adds AI support to SB
 
 ## Space Scripts
 - [`daysTillBirthday`](./scripts/DaysTillBirthday.md) Function to calculate days until next birthday date
