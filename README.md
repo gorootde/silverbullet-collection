@@ -41,6 +41,10 @@ Custom stylings.
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
 
+## Settings
+Snippets & configurations for `SETTINGS.md`.
+
+- [VSCode Keymap](./settings/SETTINGS.vscode-keymap.md) Keymap to make SB behave like VSCode.
 
 
 # Contributions
