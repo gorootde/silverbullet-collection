@@ -15,6 +15,7 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 - [`TimeDiff`](./scripts/timeDiff.md) Calculate time between two times
 - [`DateDiff`](./scripts/DateDiff.md) Difference between two dates
 - [`MathBasics`](./scripts/MathBasics.md) Basic math functions such as `ceil`,`floor` or `round`
+- [`CreateView`](./scripts/CreateView.md) Replacement for SQL `GROUP BY` clause
 ## Templates
 ### New Pages
 Templates for creating new pages.
