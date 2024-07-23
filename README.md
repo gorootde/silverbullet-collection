@@ -37,6 +37,10 @@ Snippets that can be inserted using slash commands.
 - [due-date](./templates/Snippets/Duedate.md) Inserts a due date that is used to set the deadline date for a task
 
 
+### Widgets
+Widgets that can be used as page headers.
+- [banner](./templates/Widgets/Banner.md) Displays a banner image on top of a page.
+
 ## Styles
 Custom stylings.
 
