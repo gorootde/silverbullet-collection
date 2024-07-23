@@ -1,6 +1,6 @@
 ---
 description: Adds a Banner to tagged pages
-banner: "https://www.outdoorlife.com/wp-content/uploads/2019/01/23/PRDBFJQDIDDFWANEHLB5Y7FPJ4.jpg"
+banner: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Che_ne_saj.jpg"
 tags: template
 hooks.top:
   where: 'banner'
