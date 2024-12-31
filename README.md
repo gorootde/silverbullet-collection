@@ -5,6 +5,8 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 ## Plugs
 - [Tree view plug](https://github.com/joekrill/silverbullet-treeview?tab=readme-ov-file) Plug by @joekrill adding a tree view navigation panel
 - [AI plug](https://github.com/justyns/silverbullet-ai) Plug by @justyns that adds AI support to SB
+- [Markmap Mindmaps](https://github.com/malys/silverbullet-mindmap) Plug by @malys to create mindmaps based on Markmap
+- [PlantUML](https://github.com/LogeshG5/silverbullet-plantuml/) Plug by @malys to render PlantUML diagrams
 
 ## Space Scripts
 - [`daysTillBirthday`](./scripts/DaysTillBirthday.md) Function to calculate days until next birthday date
@@ -16,6 +18,8 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 - [`DateDiff`](./scripts/DateDiff.md) Difference between two dates
 - [`MathBasics`](./scripts/MathBasics.md) Basic math functions such as `ceil`,`floor` or `round`
 - [`CreateView`](./scripts/CreateView.md) Replacement for SQL `GROUP BY` clause
+- [`EmbeddAttachement`](./scripts/EmbedAttachment.md) Embedd an attachment in a page
+
 ## Templates
 ### New Pages
 Templates for creating new pages.
