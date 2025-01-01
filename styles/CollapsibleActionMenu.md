@@ -1,5 +1,4 @@
-This Will make the ActionMenu collapsible for Mobile Devices
-
+This will make the ActionMenu collapsible for Mobile Devices
 
 ```space-style
 /*Mobile Collabsible Menu*/
@@ -37,4 +36,17 @@ This Will make the ActionMenu collapsible for Mobile Devices
   }
 }
 
+```
+
+For this to work properly you also need to add an empty action button as the first action button.
+I also recommend hiding the Sync and Edit buttons in the space-config:
+
+```space-config
+hideSyncButton: true
+hideEditButton: true
+
+actionButtons:
+- icon: more-vertical
+  command: "{[]}"
+  description: Open Tool Menu
 ```
