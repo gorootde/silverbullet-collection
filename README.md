@@ -50,7 +50,7 @@ Custom stylings.
 
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
-- [CollapsibleMenu](./styles/CollapsibleActionMenu.md) Mobile friendly collapsible vertical ActionMenu. By @MrRed.
+- [CollapsibleMenu](./styles/CollapsibleActionMenu.md) Mobile friendly collapsible vertical ActionMenu. By @Mr-xRed
 
 ## Settings
 Snippets & configurations for `SETTINGS.md`.
