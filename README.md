@@ -19,6 +19,7 @@ Steadily growing list of [silverbullet.md](https://silverbullet.md) scripts, tem
 - [`MathBasics`](./scripts/MathBasics.md) Basic math functions such as `ceil`,`floor` or `round`
 - [`CreateView`](./scripts/CreateView.md) Replacement for SQL `GROUP BY` clause
 - [`EmbeddAttachement`](./scripts/EmbedAttachment.md) Embedd an attachment in a page
+- [`ToggleSelectionToCodeblock`](./scripts/ToggleSelectionToCodeblock.md) Selection to CodeBlock toggle. By @Mr-xRed
 
 ## Templates
 ### New Pages
@@ -50,6 +51,7 @@ Custom stylings.
 
 - [Invisible header](./styles/InvisibleTopBar.md) Hides the top bar, visually merging it with the content pane.
 - [Obsidian](./styles/Obisidian.md) Obsidian like color schema. By @whede92.
+- [CollapsibleMenu](./styles/CollapsibleActionMenu.md) Mobile friendly collapsible vertical ActionMenu. By @Mr-xRed
 
 ## Settings
 Snippets & configurations for `SETTINGS.md`.
