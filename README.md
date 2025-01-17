@@ -59,6 +59,10 @@ Snippets & configurations for `SETTINGS.md`.
 
 - [VSCode Keymap](./settings/SETTINGS.vscode-keymap.md) Keymap to make SB behave like VSCode.
 
+## External Apps
+Integrations & helper applications.
+
+- [SilverBullet Clipper](https://github.com/davecburke/silverbullet-clipper) A web clipping browser extension for SilverBullet. Available for Chrome, Opera and Firefox.
 
 # Contributions
 Contributions are welcome! Just open a PR or create an issue.
